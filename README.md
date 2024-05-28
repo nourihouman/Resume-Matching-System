@@ -29,4 +29,4 @@ Contributing
 Contributions to this project are welcome! Please fork the repository and submit pull requests with your suggested changes.
 
 Credits
-This project was inspired by challenges faced by recruiters in the tech industry and uses data provided by https://deepnote.com/app/abid/spaCy-Resume-Analysis-81ba1e4b-7fa8-45fe-ac7a-0b7bf3da7826?Job_Category=AVIATION
+This project was inspired by challenges faced by recruiters in the tech industry and uses data provided by [https://deepnote.com/app/abid/spaCy-Resume-Analysis-81ba1e4b-7fa8-45fe-ac7a-0b7bf3da7826?Job_Category=AVIATION](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
